@@ -13,7 +13,7 @@ last_name: Luo
 status:
   icon: ☕️
 
-# Is this the primary user of the site?
+# Is this the primary user of the site? 
 superuser: true
 
 # Role/position/tagline
