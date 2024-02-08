@@ -1,6 +1,6 @@
 ---
 # Display name
-title: XiaoqiLuo
+title: Xiaoqi Luo
 
 # Name pronunciation (optional)
 name_pronunciation: Xiaoqi Law
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatics engineer/Research Assistant
+role: Research Assistant(Bioinformatics engineer)
 
 # Organizations/Affiliations to show in About widget
 organizations:
