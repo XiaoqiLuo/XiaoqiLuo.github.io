@@ -77,7 +77,6 @@ sections:
         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
           company: SooChow University
           company_url: 'https://eng.suda.edu.cn/'
-          # company_logo: org-x
           location: SooChow
           date_start: '2020-08-01'
           date_end: '2021-08-31'
