@@ -113,11 +113,11 @@ sections:
           date_end: '2023-04-30'
           date_start: '2022-11-16'
           description: Bioinformatics Engineer
-          icon: edx
+          # icon: edx
           organization: edX
           organization_url:  # https://www.edx.org
           title: Blockchain Fundamentals
-          url:# https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: # https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
