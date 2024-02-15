@@ -81,8 +81,10 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: |2-
-          * Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma (Journal: Basic & Clinical Pharmacology & Toxicology Volume 128: 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) Abstract Supplement https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107) )
-          * Extension project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
+               * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 465,000 samples from public databases, including SRA, TCGA, and GTEx. 
+              * Develop motif enrichment analysis algorithm to predict regulatory motifs (miRNA and RBP).
+              * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
+              * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
     design:
       columns: '2'
   - block: accomplishments
