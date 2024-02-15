@@ -118,7 +118,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a research assistant in Guangzhou lab, mainly responsible for genome and transcriptome process building, algorithm comparison and optimization. Prior to that, I finished my master program at the University of Edinburgh, where I worked on Predicting gene-regulatory motifs from large-scale transcriptome resources (https://cei.bio.ed.ac.uk/msc_project/production/) under the supervision of [Dr Cei Abreu-Goodger](https://cei.bio.ed.ac.uk/). My research interests focus on the use and optimization of bioinformatics tools to analyze and integrate multi-omics NGS data to extract transcriptional regulatory and motif information. I am also interested in molecular typing of cancer, immune microenvironment and integrated multi-omics analysis, which was my research topic during my undergraduate studies.
-
+I am a research assistant in Guangzhou lab, mainly responsible for genome and transcriptome process building, algorithm comparison and optimization. Prior to that, I finished my master program at the University of Edinburgh, where I worked on Predicting gene-regulatory motifs from large-scale transcriptome resources (https://cei.bio.ed.ac.uk/msc_project/production/) under the supervision of Dr Cei Abreu-Goodger (https://cei.bio.ed.ac.uk/). My research interests focus on the use and optimization of bioinformatics tools to analyze and integrate multi-omics NGS data to extract transcriptional regulatory and motif information. I am also interested in molecular typing of cancer, immune microenvironment and integrated multi-omics analysis, which was my research topic during my undergraduate studies.
 
 {style="text-align: justify;"}
