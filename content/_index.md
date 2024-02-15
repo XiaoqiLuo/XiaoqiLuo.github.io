@@ -82,12 +82,12 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: 
-          # * Publication: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma
+           * Publication: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma
           #   *  Journal: Basic & Clinical Pharmacology & Toxicology Volume 128: 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) Abstract Supplement https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107)
           # * Extension project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Work Experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -100,33 +100,33 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: #https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-05-05'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          # icon: coursera
+          organization: Guangzhou Laboratory
+          organization_url: # https://www.coursera.org
+          title: Research Assistant
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+        - certificate_url: # https://www.edx.org
+          date_end: '2023-04-30'
+          date_start: '2022-11-16'
+          description: Bioinformatics Engineer
           icon: edx
           organization: edX
-          organization_url: https://www.edx.org
+          organization_url:  # https://www.edx.org
           title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          url:# https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   icon: datacamp
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   # - block: collection
@@ -202,20 +202,20 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./publication/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   # - block: collection
   #   id: talks
   #   content:
