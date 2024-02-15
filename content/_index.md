@@ -91,7 +91,7 @@ sections:
             
     design:
       columns: '2'
-  - block: accomplishments
+  - block: Work Experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
@@ -106,9 +106,9 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-05-05'
           description: ''
-          icon: coursera
+          # icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
