@@ -62,41 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Predicting gene-regulatory motifs from large-scale transcriptome resources  
-          company: The University of Edinburgh
-          company_url: 'https://www.ed.ac.uk/'
-          company_logo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fuoemscibem&psig=AOvVaw1N8noVx9seOxIWq2ykRAzl&ust=1708075569376000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCV4LyDrYQDFQAAAAAdAAAAABAI'
-          location: Edinburgh
-          date_start: '2022-03-05'
-          date_end: '2022-08-27'
+        - title:  Predicting gene-regulatory motifs from large-scale transcriptome resources  
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
+          date_end: ''
           description: |2-
-              * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 265,000 samples from public databases, including SRA, TCGA, and GTEx. 
-              * Motif Enrichment Analysis: Conducted motif enrichment analysis from transcriptomics data to predict regulatory motifs, contributing to understanding gene expression changes across various biological scenarios.
-              * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
-              * Developed a website(https://cei.bio.ed.ac.uk/msc_project/production/) that utilizes transcriptomics for reverse deduction and prediction of reliable regulatory motifs.
+              Responsibilities include:
 
-         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
-          company: SooChow University
-          company_url: 'https://eng.suda.edu.cn/'
-          company_logo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2Fsoochow-university-china&psig=AOvVaw2TJvOljLkpwnf12uHErHMg&ust=1708075752749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDxj5SErYQDFQAAAAAdAAAAABAJ'
-          location: SooChow
-          date_start: '2021-02-01'
-          date_end: '2021-06-25'
-          description: |2-
-              In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively.
-
-        - title: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
-           company: SooChow University
-          company_url: 'https://eng.suda.edu.cn/'
-          company_logo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2Fsoochow-university-china&psig=AOvVaw2TJvOljLkpwnf12uHErHMg&ust=1708075752749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDxj5SErYQDFQAAAAAdAAAAABAJ'
-          location: SooChow
-          date_start: '2020-10-01'
-          date_end: '2021-08-31'
-          description: 
-          * Establishing a recurrence risk prediction model for esophageal squamous cell carcinoma and head and neck squamous cell carcinoma cohorts and validating it with external datasets.
-          * Identifying risk factors for recurrence events through tumor microenvironment and immune cell type analysis.
-          * Analyzed the expression of 1337 pairs of ligands and receptors to infer potential crosstalk. Among them, 14 pairs showed high correlation and significant differences between the recurrence groups. The dysregulation of chemokine CCL2 and CCR5 led to changes in monocyte abundance, causing alterations in the tumor microenvironment and ultimately leading to recurrence.
-          * The above data analysis process is integrated and encapsulated, with the code hosted at: https://github.com/XiaoqiLuo/Tumor_Microenviornment
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
+          company_url: ''
+          company_logo: org-x
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
