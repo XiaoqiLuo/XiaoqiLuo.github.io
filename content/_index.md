@@ -81,8 +81,7 @@ sections:
           location: SooChow
           date_start: '2021-02-01'
           date_end: '2021-06-25'
-          description: |2-
-              In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively.
+          description: In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively.
     design:
       columns: '2'
   - block: accomplishments
