@@ -65,6 +65,7 @@ sections:
         - title:  Predicting gene-regulatory motifs from large-scale transcriptome resources  
           company: The University of Edinburgh
           company_url:  'https://www.ed.ac.uk/'
+          company_logo: uoe
           location: Edinburgh
           date_start: '2022-03-05'
           date_end: '2022-08-27'
@@ -77,12 +78,13 @@ sections:
         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
           company: SooChow University
           company_url: 'https://eng.suda.edu.cn/'
+          company_logo: su
           location: SooChow
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: |2-
                * Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma 
-                  - (2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 No.1107)
+                  - 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107)
               * Extension Project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
     design:
       columns: '2'
