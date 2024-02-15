@@ -84,7 +84,8 @@ sections:
           date_end: '2021-08-31'
           description: |2-
             * Degree Thesis: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma
-                - In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively. 
+                - In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. 
+                - The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively. 
             * Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma 
                 - [2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020)](https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542) (No.1107)
             * Extension Project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
@@ -109,9 +110,9 @@ sections:
           date_start: '2023-05-05'
           description: ''
           # icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Guangzhou Laboratory
+          # organization_url: https://www.coursera.org
+          title: Research Assitant
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
