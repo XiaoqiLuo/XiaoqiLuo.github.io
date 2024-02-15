@@ -82,7 +82,7 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: 
-           * Publication: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma
+          # * Publication: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma
           #   *  Journal: Basic & Clinical Pharmacology & Toxicology Volume 128: 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) Abstract Supplement https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107)
           # * Extension project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
     design:
@@ -202,20 +202,20 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  # - block: collection
-  #   content:
-  #     title: Recent Publications
-  #     text: |-
-  #       {{% callout note %}}
-  #       Quickly discover relevant content by [filtering publications](./publication/).
-  #       {{% /callout %}}
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: true
-  #   design:
-  #     columns: '2'
-  #     view: citation
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
