@@ -102,22 +102,22 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2023-05-05'
+          date_start: '2021-01-25'
           description: ''
           icon: coursera
-          organization: Guangzhou Laboratory
-          organization_url:  https://www.coursera.org
-          title: Research Assistant
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
-        - certificate_url:  https://www.edx.org
-          date_end: '2023-04-30'
-          date_start: '2022-11-16'
-          description: Bioinformatics Engineer
-           icon: edx
+        - certificate_url: https://www.edx.org
+          date_end: ''
+          date_start: '2021-01-01'
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
           organization: edX
-          organization_url:   https://www.edx.org
+          organization_url: https://www.edx.org
           title: Blockchain Fundamentals
-          url:  https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
