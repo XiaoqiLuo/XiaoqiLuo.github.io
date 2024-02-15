@@ -63,18 +63,16 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title:  Predicting gene-regulatory motifs from large-scale transcriptome resources  
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company: The University of Edinburgh
+          company_url:  'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fuoemscibem&psig=AOvVaw1N8noVx9seOxIWq2ykRAzl&ust=1708075569376000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCV4LyDrYQDFQAAAAAdAAAAABAI'
+          location: Edinburgh
+          date_start: '2022-03-05'
+          date_end: '2022-08-27'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+               * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 265,000 samples from public databases, including SRA, TCGA, and GTEx. 
+              * Motif Enrichment Analysis: Conducted motif enrichment analysis from transcriptomics data to predict regulatory motifs, contributing to understanding gene expression changes across various biological scenarios.
+              * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
+              * Developed a website(https://cei.bio.ed.ac.uk/msc_project/production/) that utilizes transcriptomics for reverse deduction and prediction of reliable regulatory motifs.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
