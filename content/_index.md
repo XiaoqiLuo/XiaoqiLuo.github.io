@@ -75,13 +75,13 @@ sections:
               * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
 
         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
-          company:  SooChow University
+          company: SooChow University
           company_url: 'https://eng.suda.edu.cn/'
           company_logo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2Fsoochow-university-china&psig=AOvVaw2TJvOljLkpwnf12uHErHMg&ust=1708075752749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDxj5SErYQDFQAAAAAdAAAAABAJ'
           location: SooChow
           date_start: '2021-02-01'
-          date_end: '2021-06-25'
-          description: In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively.
+          date_end: '2021-06-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
