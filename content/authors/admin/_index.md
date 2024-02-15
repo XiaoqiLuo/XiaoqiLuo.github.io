@@ -32,8 +32,8 @@ bio: I am a research assistant in Guangzhou lab, mainly responsible for genome a
 interests:
   - Algorithm optimization
   - Statistic & Machine Learning
-  - [Genomic-variant calling](https://github.com/XiaoqiLuo/genomic-call-variant)
-  - [Transcriptomic-non-coding RNA](https://github.com/XiaoqiLuo/non-coding-RNA)
+  - Genomic-[variant calling](https://github.com/XiaoqiLuo/genomic-call-variant)
+  - Transcriptomic-[non-coding RNA](https://github.com/XiaoqiLuo/non-coding-RNA)
 
 
 # Education to show in About widget
