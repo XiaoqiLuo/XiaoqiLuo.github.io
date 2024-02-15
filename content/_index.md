@@ -64,24 +64,27 @@ sections:
       items:
         - title:  Predicting gene-regulatory motifs from large-scale transcriptome resources  
           company: The University of Edinburgh
-          company_url:  'https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fuoemscibem&psig=AOvVaw1N8noVx9seOxIWq2ykRAzl&ust=1708075569376000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCV4LyDrYQDFQAAAAAdAAAAABAI'
+          company_url:  'https://www.ed.ac.uk/'
           location: Edinburgh
           date_start: '2022-03-05'
           date_end: '2022-08-27'
           description: |2-
                * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 465,000 samples from public databases, including SRA, TCGA, and GTEx. 
-              * Develop motif enrichment analysis algorithm to predict regulatory motifs
+              * Develop motif enrichment analysis algorithm to predict regulatory motifs (miRNA and RBP).
               * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
               * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
               
         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
           company: SooChow University
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_url: 'https://eng.suda.edu.cn/'
+          # company_logo: org-x
+          location: SooChow
+          date_start: '2020-08-01'
+          date_end: '2021-08-31'
+          description: 
+          * Publication: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma
+            *  Journal: Basic & Clinical Pharmacology & Toxicology Volume 128: 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) Abstract Supplement https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107)
+          * Extension project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
     design:
       columns: '2'
   - block: accomplishments
