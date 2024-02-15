@@ -69,18 +69,20 @@ sections:
           date_start: '2022-03-05'
           date_end: '2022-08-27'
           description: |2-
-               * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 265,000 samples from public databases, including SRA, TCGA, and GTEx. 
+               * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 465,000 samples from public databases, including SRA, TCGA, and GTEx. 
               * Motif Enrichment Analysis: Conducted motif enrichment analysis from transcriptomics data to predict regulatory motifs, contributing to understanding gene expression changes across various biological scenarios.
               * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
-              * Developed a website(https://cei.bio.ed.ac.uk/msc_project/production/) that utilizes transcriptomics for reverse deduction and prediction of reliable regulatory motifs.
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
+
+        - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
+          company:  SooChow University
+          company_url: 'https://eng.suda.edu.cn/'
+          company_logo: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeshighereducation.com%2Fworld-university-rankings%2Fsoochow-university-china&psig=AOvVaw2TJvOljLkpwnf12uHErHMg&ust=1708075752749000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDxj5SErYQDFQAAAAAdAAAAABAJ'
+          location: SooChow
+          date_start: '2021-02-01'
+          date_end: '2021-06-25'
+          description: |2-
+              In this study, we developed a recurrence risk assessment model for esophageal squamous cell carcinoma, and the ROC curve confirmed its predictive performance. The AUCs of the built model were 0.860, 0.872, 0.778, and 0.778 in six months, one year, three years, and five years, respectively.
     design:
       columns: '2'
   - block: accomplishments
