@@ -83,8 +83,8 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: |2-
-               * Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma 
-                  - 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) [https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542] (No.1107)
+            * Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma 
+                - 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020)[https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542] (No.1107)
               * Extension Project: Identification Tumor Microenvironment-Related Gene Set-based Signature and chemokines targets in Squamous Cell Carcinoma
     design:
       columns: '2'
