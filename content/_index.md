@@ -92,10 +92,10 @@ sections:
             
     design:
       columns: '2'
-  - block: accomplish­ments
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Work Experience'
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -110,9 +110,9 @@ sections:
           date_start: '2023-05-05'
           description: ''
           # icon: coursera
-          organization: Guangzhou Laboratory
-          # organization_url: https://www.coursera.org
-          title: Research
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
