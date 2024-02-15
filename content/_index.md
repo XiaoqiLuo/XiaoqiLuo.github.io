@@ -81,10 +81,19 @@ sections:
           date_start: '2020-08-01'
           date_end: '2021-08-31'
           description: |2-
-               * Published Abstact: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma (Basic & Clinical Pharmacology & Toxicology Volume 128: 2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 (No.1107) )
-              * Develop motif enrichment analysis algorithm to predict regulatory motifs (miRNA and RBP).
-              * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
-              * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
+               * Published Abstact: Identification of novel biomarkers for lymph node metastasis of Esophageal squamous cell carcinoma (2020 International Conference on Biotechnology and Clinical Pharmacology (ICBCP2020) https://onlinelibrary.wiley.com/doi/full/10.1111/bcpt.13542 No.1107)
+              
+         - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
+          company: SooChow University
+          company_url: 'https://eng.suda.edu.cn/'
+          location: SooChow
+          date_start: '2020-08-01'
+          date_end: '2021-08-31'
+          description: |2-
+               *  Establishing a recurrence risk prediction model for esophageal squamous cell carcinoma and head and neck squamous cell carcinoma cohorts and validating it with external datasets.
+              * Identifying risk factors for recurrence events through tumor microenvironment and immune cell type analysis.
+              * Analyzed the expression of 1337 pairs of ligands and receptors to infer potential crosstalk. Among them, 14 pairs showed high correlation and significant differences between the recurrence groups. The dysregulation of chemokine CCL2 and CCR5 led to changes in monocyte abundance, causing alterations in the tumor microenvironment and ultimately leading to recurrence.
+              * The above data analysis process is integrated and encapsulated, with the code hosted at: https://github.com/XiaoqiLuo/Tumor_Microenviornment
     design:
       columns: '2'
   - block: accomplishments
