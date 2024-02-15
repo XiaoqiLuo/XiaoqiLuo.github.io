@@ -70,12 +70,12 @@ sections:
           date_end: '2022-08-27'
           description: |2-
                * Developed and implemented a comprehensive pipeline to standardized metadata format and analyze over 465,000 samples from public databases, including SRA, TCGA, and GTEx. 
-              * Motif Enrichment Analysis: Conducted motif enrichment analysis from transcriptomics data to predict regulatory motifs, contributing to understanding gene expression changes across various biological scenarios.
+              * Develop motif enrichment analysis algorithm to predict regulatory motifs
               * Employed filtration strategies and combined miRNA-Seq data to validate the predicted motifs, achieving an Area Under the Curve (AUC) value of 0.76.
               * Available at: https://cei.bio.ed.ac.uk/msc_project/production/
               
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Identification and validation of recurrence risk signature model of esophageal squamous cell carcinoma 
+          company: SooChow University
           company_url: ''
           company_logo: org-x
           location: California
