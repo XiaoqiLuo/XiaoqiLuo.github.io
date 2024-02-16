@@ -34,6 +34,8 @@ interests:
   - Statistic & Machine Learning
   - Genomic [variant calling](https://github.com/XiaoqiLuo/genomic-call-variant)
   - Transcriptomic [noncoding RNA](https://github.com/XiaoqiLuo/non-coding-RNA)
+  - [Long-read Sequencing](https://github.com/XiaoqiLuo/long-read-sequencing)
+
 
 
 # Education to show in About widget
